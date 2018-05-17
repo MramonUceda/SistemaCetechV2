@@ -1,2 +1,3 @@
 # SistemaCetechV2
 Este sistema fue creado independientemente a petición de ...
+Son las mismas cosas que el SistemaCetech pero este tiene algunas cosas adiconales.
